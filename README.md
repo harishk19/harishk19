@@ -2,9 +2,13 @@
 <h3 align="center">A passionate Full Stack Java Developer.</h3>
 
 <p>Hello World! 👋 <br> <br>
-I'm a Full Stack Java Developer with a passion for building scalable and efficient web applications. My journey in software development began at Gamayas as a Junior Software Engineer, where I honed my skills in Java, Spring Boot, and cloud technologies. I further expanded my expertise at George Mason University, working as a Web Developer to enhance digital experiences through creative UI/UX design and robust web development practices. Currently, I contribute to the advancement of software solutions at Advansoft International, focusing on the NALA Chef and WINGMAN applications. My role involves comprehensive development tasks, from designing new features and testing automation with JUnit and Selenium, to implementing RESTful web services and managing deployments with Kubernetes on GCP.
+I'm a Full Stack Java Developer with a strong passion for building and optimizing web applications from the ground up. My expertise lies in full-stack development, with a keen focus on backend architectures using Spring Boot microservices. I bring to the table a comprehensive skill set in Java, along with a solid understanding of frontend technologies including ReactJs, HTML, CSS, and JavaScript, enabling me to craft seamless, end-to-end solutions for complex problems.
 
-My technical toolkit includes a wide range of programming languages and technologies such as Java, Python, ReactJs, MongoDB, AWS, and many others. I'm an AWS Certified Developer – Associate and hold several certifications that validate my skills in full stack development, data analytics, and software engineering practices.
+In my development toolkit, you'll also find proficiency in handling databases such as Oracle, MySQL, and MongoDB, ensuring data is efficiently managed and integrated within applications. I leverage cloud technologies like AWS to deploy scalable, high-availability applications and utilize Docker and Kubernetes to containerize and orchestrate services, ensuring a smooth CI/CD pipeline. I have a strong foundation in working with Docker and Kubernetes, which I use to containerize applications and manage them efficiently across different environments. My experience with Google Cloud Platform (GCP) and Google Kubernetes Engine (GKE) has enabled me to deploy scalable applications in the cloud, ensuring high availability and robust performance
+
+My approach to software development is rooted in Agile methodologies, focusing on continuous improvement, flexibility, and delivering value to end-users. I'm deeply committed to writing clean, maintainable code and automating testing using tools like JUnit and Selenium to ensure reliability and performance.
+
+I’m always on the lookout for new challenges and opportunities to collaborate on projects that push technological boundaries. Feel free to explore my repositories to get a sense of my work and how I can contribute to your next project
 
 I believe in continuous learning and agile methodologies to deliver high-quality software products. In my GitHub repositories, you'll find projects that showcase my ability to solve complex problems, innovate, and collaborate effectively within teams. I'm enthusiastic about open source contribution and eager to connect with fellow developers and tech enthusiasts.
 
@@ -14,6 +18,14 @@ Let's build something amazing together!</p>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harishkanukurthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harishkanukurthi/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Badges:</h3>
+<p> <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="37744b28-b540-48cd-85b6-3117cdd079e4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></p>
+
+<h3 align="left">Certificates:</h3>
+<p> **AWS Certified Developer – Associate**, **IBM Full Stack Developer**, **Version Control By META**, Smart India Hackathon, Data science (IBM),
+Web Application using TypeScript, Data Analytics for Business, Creating Effective Dashboards (MS)</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
