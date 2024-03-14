@@ -20,9 +20,8 @@ Let's build something amazing together!</p>
 </p>
 
 <h3 align="left">Badges:</h3>
-<p> 
-!(Badges/AWS-Developer.png)  
-</p>
+
+![AWS](Badges/AWS-Developer.png) 
 
 <h3 align="left">Certificates:</h3>
 <p> <ul> 
