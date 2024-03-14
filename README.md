@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate Full Stack Java Developer.</h3>
 
-<p>Hello World! 👋
+<p>Hello World! 👋 <br>
 I'm a Full Stack Java Developer with a passion for building scalable and efficient web applications. My journey in software development began at Gamayas as a Junior Software Engineer, where I honed my skills in Java, Spring Boot, and cloud technologies. I further expanded my expertise at George Mason University, working as a Web Developer to enhance digital experiences through creative UI/UX design and robust web development practices. Currently, I contribute to the advancement of software solutions at Advansoft International, focusing on the NALA Chef and WINGMAN applications. My role involves comprehensive development tasks, from designing new features and testing automation with JUnit and Selenium, to implementing RESTful web services and managing deployments with Kubernetes on GCP.
 
 My technical toolkit includes a wide range of programming languages and technologies such as Java, Python, ReactJs, MongoDB, AWS, and many others. I'm an AWS Certified Developer – Associate and hold several certifications that validate my skills in full stack development, data analytics, and software engineering practices.
