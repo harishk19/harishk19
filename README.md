@@ -24,8 +24,8 @@ Let's build something amazing together!</p>
 
 <h3 align="left">Badges:</h3>
 
-<a href="https://www.credly.com/badges/559647f4-be0f-4aaf-b809-b41ed52416b1/public_url" > <img align="center" src ="/Badges/AWS-Developer.png" height="150" width="150"></a>
-<a href="https://www.credly.com/badges/37744b28-b540-48cd-85b6-3117cdd079e4/public_url" > <img align="center" src ="/Badges/IBMFullStack.png" height="150" width="150"></a>
+<a href="https://www.credly.com/badges/559647f4-be0f-4aaf-b809-b41ed52416b1/public_url" target="_blank" > <img align="center" src ="/Badges/AWS-Developer.png" height="150" width="150"></a>
+<a href="https://www.credly.com/badges/37744b28-b540-48cd-85b6-3117cdd079e4/public_url" target="_blank" > <img align="center" src ="/Badges/IBMFullStack.png" height="150" width="150"></a>
 
 <h3 align="left">Certificates:</h3>
 <p> <ul> 
