@@ -20,7 +20,9 @@ Let's build something amazing together!</p>
 </p>
 
 <h3 align="left">Badges:</h3>
-<p> <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="37744b28-b540-48cd-85b6-3117cdd079e4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></p>
+<p> 
+!(Badges/AWS-Developer.png)  
+</p>
 
 <h3 align="left">Certificates:</h3>
 <p> <ul> 
