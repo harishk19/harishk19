@@ -19,7 +19,12 @@ Let's build something amazing together!</p>
 
 <h4> Languages </h4>  <br> 
 
-<p>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
+<p>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishk19&show_icons=true&locale=en&layout=compact" alt="harishk19" />  &emsp;
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &emsp;
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+</p>
 
 <h4> Backend Development </h4>
 <h4> Frontend Development</h4>
@@ -30,9 +35,7 @@ Let's build something amazing together!</p>
   
 <p align="left">  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishk19&show_icons=true&locale=en&layout=compact" alt="harishk19" />  &emsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &emsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p>
    
 </p> 
 
