@@ -23,8 +23,17 @@ Let's build something amazing together!</p>
 <p> <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="37744b28-b540-48cd-85b6-3117cdd079e4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></p>
 
 <h3 align="left">Certificates:</h3>
-<p> **AWS Certified Developer – Associate**, **IBM Full Stack Developer**, **Version Control By META**, Smart India Hackathon, Data science (IBM),
-Web Application using TypeScript, Data Analytics for Business, Creating Effective Dashboards (MS)</p>
+<p> <ul> 
+ <li>AWS Certified Developer – Associate</li>
+ <li>IBM Full Stack Developer</li>
+ <li>Version Control By META</li>
+ <li>Web Application using TypeScript</li>
+ <li>Microsoft: Creating Effective Dashboards</li>
+ <li>IBM Data science</li>
+ <li>Smart India Hackathon</li>
+ <li>Data Analytics for Business</li>
+</ul>
+ </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
