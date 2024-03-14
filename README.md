@@ -14,6 +14,9 @@ I believe in continuous learning and agile methodologies to deliver high-quality
 
 Let's build something amazing together!</p>
 
+<h3 align="left">Check My Repositories:</h3> 
+<a href=https://github.com/harishk19?tab=repositories> LINK </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harishkanukurthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harishkanukurthi/" height="30" width="40" /></a>
