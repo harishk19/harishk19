@@ -14,8 +14,8 @@ I believe in continuous learning and agile methodologies to deliver high-quality
 
 Let's build something amazing together!</p>
 
-<h3 align="left">Check My Repositories:</h3> 
-<a href=https://github.com/harishk19?tab=repositories> LINK </a>
+<h3 align="left">Check My Projects Here:</h3> 
+<a href=https://github.com/harishk19?tab=repositories> Repositories  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
