@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate Full Stack Java Developer.</h3>
 
+<p>Hello World! 👋
+I'm a Full Stack Java Developer with a passion for building scalable and efficient web applications. My journey in software development began at Gamayas as a Junior Software Engineer, where I honed my skills in Java, Spring Boot, and cloud technologies. I further expanded my expertise at George Mason University, working as a Web Developer to enhance digital experiences through creative UI/UX design and robust web development practices. Currently, I contribute to the advancement of software solutions at Advansoft International, focusing on the NALA Chef and WINGMAN applications. My role involves comprehensive development tasks, from designing new features and testing automation with JUnit and Selenium, to implementing RESTful web services and managing deployments with Kubernetes on GCP.
+
+My technical toolkit includes a wide range of programming languages and technologies such as Java, Python, ReactJs, MongoDB, AWS, and many others. I'm an AWS Certified Developer – Associate and hold several certifications that validate my skills in full stack development, data analytics, and software engineering practices.
+
+I believe in continuous learning and agile methodologies to deliver high-quality software products. In my GitHub repositories, you'll find projects that showcase my ability to solve complex problems, innovate, and collaborate effectively within teams. I'm enthusiastic about open source contribution and eager to connect with fellow developers and tech enthusiasts.
+
+Let's build something amazing together!</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harishkanukurthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harishkanukurthi/" height="30" width="40" /></a>
